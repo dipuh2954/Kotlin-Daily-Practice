@@ -1,3 +1,5 @@
+package W01
+
 fun main() {
     val userName = "Dipu"
     // userName = "John"  // val doesn't allow to reassign variables meanwhile var is allowed to do so

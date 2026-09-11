@@ -1,3 +1,5 @@
+package W02
+
 fun main() {
     //Create a map of 5 countries and their capitals. Print the capital of India and handle the case where a country doesn't exist using getOrDefault().
     val cp = mapOf(

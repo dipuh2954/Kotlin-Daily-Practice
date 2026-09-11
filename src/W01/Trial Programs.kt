@@ -1,3 +1,5 @@
+package W01
+
 fun main() {
     // Creating an immutable list of strings
     val fruits = listOf("Apple", "Banana", "Mango", "Kiwi")

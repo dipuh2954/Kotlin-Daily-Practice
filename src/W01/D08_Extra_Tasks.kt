@@ -1,4 +1,4 @@
-// These are some extra questions on nullSafety
+package W01// These are some extra questions on nullSafety
 
 data class Profile(val email: String?)
 data class User(val name: String?, val email: String?, val age: Int?, val profile: Profile?)

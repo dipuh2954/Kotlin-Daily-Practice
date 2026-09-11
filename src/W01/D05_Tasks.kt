@@ -1,6 +1,8 @@
+package W01
+
 fun main() {
 //Use a when expression to convert a month number (1-12) to its name. Use else for invalid numbers.
-    val noOfMonth = readln().toIntOrNull() ?:0
+    val noOfMonth = readln().toIntOrNull() ?: 0
     when (noOfMonth) {
         1 -> println("January")
         2 -> println("February")

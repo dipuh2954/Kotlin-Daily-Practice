@@ -1,4 +1,6 @@
-fun main(){
+package W01
+
+fun main() {
 //    Declare a String? variable. Use  ?. to safely print its length. Use ?: to default to 0 if null. Try both with null and a real string.
 
     var nullableString: String? = null

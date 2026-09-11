@@ -1,3 +1,5 @@
+package W01
+
 //    Write fun square(n: Int): Int- returns n?.
 fun square(n: Int) = n * n
 

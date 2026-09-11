@@ -1,3 +1,5 @@
+package W01
+
 fun main() {
     print("Enter your age as a whole number: ")
     val age = readLine()!!.toInt()
