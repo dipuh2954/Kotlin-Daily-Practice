@@ -1,4 +1,4 @@
-package w02
+package W02
 
 fun main() {
 
