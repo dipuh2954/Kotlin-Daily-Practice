@@ -1,4 +1,4 @@
-# Kotlin Daily Grind 🚀
+# Kotlin Daily Practice 🚀
 
 Tracking my daily progress as I learn Kotlin and Android development from absolute zero.
 
