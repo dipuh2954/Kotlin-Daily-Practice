@@ -1,11 +1,10 @@
 fun main() {
-    val name = "Dipu"
-    var age = 22
-    var college = "BPPIMT"
-    var course = "Btech CSE"
-    var isStudent = true
+    val price = 80
+    val quantity = 4
+    val discount = 20
 
-    age = 24
-    println(name + age + college + course + isStudent)
+    val total = price * (quantity - discount)
+
+    println(total)
 
 }
